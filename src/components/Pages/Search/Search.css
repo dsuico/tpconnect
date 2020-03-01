@@ -1,0 +1,12 @@
+.MuiFormControl-root {
+    margin: 50px 20px !important;
+    margin-left: 0 !important;
+}
+form {
+    display: flex;
+    justify-content: center;
+}
+
+.main-content {
+    margin-top: 4em;
+}

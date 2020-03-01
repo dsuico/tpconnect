@@ -1,0 +1,63 @@
+span.airplane {
+    background: url(../../../assets/images/adminLogo.png);
+}
+.main {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #ef5350;
+    width: 70%;
+    height: 100%;
+}
+.fill img {
+    flex-shrink: 4;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.login {
+    height: 100%;
+}
+
+.logo {
+    height: 78px;
+    width:155px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+}
+
+.login-form {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.MuiFormControl-fullWidth {
+    margin: 20px 0 !important;
+}
+
+span.forgot-psw {
+    color:#CC0C00;
+}
+
+button.MuiButton-containedSecondary {
+    color: #fff;
+    background-color: #CC0C00;
+    display: block;
+    margin-top: 20px;
+}
+
+.sign-in-text {
+    font-size: 23px;
+    color: gray;
+}
